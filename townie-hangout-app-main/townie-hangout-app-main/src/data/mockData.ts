@@ -93,7 +93,7 @@ export const events: Event[] = [
     startTime: '07:00',
     endTime: '11:00',
     organizer: 'Environmental Protection Group',
-    imageUrl: 'https://images.unsplash.com/photo-1618477461853-cf6ed5c91c15?q=80&w=1000&auto=format&fit=crop',
+    imageUrl: 'https://plus.unsplash.com/premium_photo-1679541666853-384cf6c0f685?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmVhY2glMjBjbGVhbnVwJTIwZHJpdmV8ZW58MHx8MHx8fDA%3D',
     registrationRequired: true,
     approved: true,
     createdBy: '1'
@@ -109,7 +109,7 @@ export const events: Event[] = [
     startTime: '10:00',
     endTime: '18:00',
     organizer: 'Arts Council',
-    imageUrl: 'https://images.unsplash.com/photo-1594932858784-8606f48f02a3?q=80&w=1000&auto=format&fit=crop',
+    imageUrl: 'https://images.unsplash.com/photo-1632383380175-812d44ec112b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZXhoaWJpdGlvbnxlbnwwfHwwfHx8MA%3D%3D',
     registrationRequired: false,
     approved: true,
     createdBy: '2'
