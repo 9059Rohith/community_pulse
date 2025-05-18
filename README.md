@@ -47,6 +47,10 @@ The ops team keeps the platform from becoming toxic:
 - User verification
 - "Verified Organizer" status for the real ones
 - Can yeet problematic users if necessary
+##  📽️ Video-Demo
+
+https://github.com/user-attachments/assets/b8388d68-21fb-4153-ab72-963405aaec51
+
 
 ## 🔮 COMING SOON
 
