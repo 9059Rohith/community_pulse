@@ -7,7 +7,6 @@ interface CategoryFilterProps {
   selectedCategory: EventCategory | null;
   onSelectCategory: (category: EventCategory | null) => void;
 }
-
 const CategoryFilter: React.FC<CategoryFilterProps> = ({
   selectedCategory,
   onSelectCategory,
@@ -43,5 +42,6 @@ const CategoryFilter: React.FC<CategoryFilterProps> = ({
     </div>
   );
 };
+//components
 
 export default CategoryFilter;
