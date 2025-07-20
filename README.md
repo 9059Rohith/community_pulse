@@ -1,6 +1,6 @@
 🎯 Project Overview
 Community Pulse is a location-aware social platform designed to connect communities through local events and activities. Unlike traditional event platforms dominated by corporate algorithms, Community Pulse focuses on authentic, hyper-local experiences that matter to real people in their neighborhoods.
-The platform empowers users to discover, create, and participate in grassroots community events while maintaining simplicity and genuine connection as core values.
+The platform empowers users to discover, create, and participate in grassroots community events while maintaining simplicity and genuine connection as core values
 
 🚀 Key Features
 Core Functionality
