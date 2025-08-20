@@ -8,7 +8,7 @@ Core Functionality
 Event Discovery: Browse location-based events within your immediate community
 Event Creation: Post and manage your own community events
 Smart RSVPs: Streamlined registration process with minimal friction
-Intelligent Notifications: Contextual reminders without notification fatigue
+Intelligent Notifications: Contextual reminders without notification fatigu
 Location Awareness: Geofenced content delivery for maximum relevance
 
 Event Categories
@@ -160,3 +160,4 @@ The project demonstrates proficiency in full-stack development, user experience 
 
 "Reconnecting communities through technology that serves people, not algorithms."
 Built with ❤️ and ☕ by developers who believe in the power of local community.
+
