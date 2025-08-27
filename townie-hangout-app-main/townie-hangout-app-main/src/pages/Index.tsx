@@ -5,7 +5,7 @@ import EventGrid from '@/components/Events/EventGrid';
 import CategoryFilter from '@/components/Events/CategoryFilter';
 import { EventCategory } from '@/data/mockData';
 import Navbar from '@/components/Layout/Navbar';
-
+//main file
 const Index = () => {
   const { events } = useEventStore();
   const [selectedCategory, setSelectedCategory] = useState<EventCategory | null>(null);
