@@ -162,3 +162,4 @@ The project demonstrates proficiency in full-stack development, user experience 
 Built with ❤️ and ☕ by developers who believe in the power of local community.
 
 
+
